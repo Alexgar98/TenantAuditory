@@ -1,6 +1,6 @@
 # TenantAuditory
 
-Lamentablemente no me ha dado tiempo a terminar el código así que no hay una cosa que yo sepa que funcione. Lo siento, al menos no tenéis que usar tiempo en probarlo ¯\\_(ツ)_/¯ (?)
+Lamentablemente no me ha dado tiempo a terminar el código así que no hay una cosa que yo sepa que funcione. Lo siento, al menos no tenéis que usar vuestro escaso tiempo en probarlo ¯\\_(ツ)_/¯ (?)
 
 La herramienta debería poder conectarse al tenant, ya sea pidiendo las credenciales o usando directamente las que se nos ha proporcionado. Una vez dentro, se debería hacer una llamada a la API de Microsoft Graph para obtener la información necesaria.
 
